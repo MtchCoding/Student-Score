@@ -7,4 +7,5 @@ for i in range(num_students):
 
     name = input("Enter your name: ")
     act1 = int(input("Enter your score for Activity 1: "))
-    
+    act2 = int(input("Enter your score for Activity 2: "))
+    act3 = int(input("Enter your score for Activity 3: "))
